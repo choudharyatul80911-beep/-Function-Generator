@@ -53,7 +53,7 @@ A compact, wireless function generator capable of producing Sine, Triangle, and 
 ### Hardware Setup
 Below is the physical configuration of the project on a breadboard, showing the connections between the Arduino R4 WiFi, the AD9833 signal generator module, and the OLED display.
 
-![Hardware Setup - Arduino R4 WiFi with AD9833 and OLED](Arduino R4.jpg)
+![Hardware Setup - Arduino R4 WiFi with AD9833 and OLED](Arduino_R4.jpeg)
 ## 💻 Software & Libraries
 To run this project, you need the **Arduino IDE** and the following libraries installed:
 
